@@ -1,15 +1,20 @@
 # TODO: pon aquí el título del proyecto
 
-TODO: escribe una frase con **negrita** que describa el proyecto.
-
+Web de ka tienda de material **nautico**
 ## Funcionalidades
-
-TODO: lista con tres viñetas
+- Portada
+- Pagina de horarios
+- Información de contacto
 
 ## Archivos
 
-TODO: tabla con dos columnas (Archivo | Función) y dos filas
+ | Archivo | Función |
+ |---------|---------|
+ | `index.html` | Portada de la web |
+ | `horario.txt` | Horario de apertura |
 
 ## Cómo ver la web
 
-TODO: bloque de código con el comando para abrir index.html
+```bash
+xdg-open index.html
+```
